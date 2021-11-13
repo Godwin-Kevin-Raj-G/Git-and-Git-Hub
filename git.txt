@@ -1,0 +1,4 @@
+Git Definition:
+
+1.Its a open sorce 
+2.Its a Distributed version control System 
